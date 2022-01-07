@@ -1,0 +1,35 @@
+.MuiPaper-elevation8 {
+  top: 65px !important;
+  left: 190px !important;
+}
+
+.makeStyles-logout-59 > div {
+  display: none !important;
+}
+
+.MuiPaper-elevation8 ul {
+  color: #4a4a4a;
+}
+
+.MuiPaper-elevation8 ul li {
+  padding: 10px 20px;
+}
+.MuiPaper-elevation8 ul li:last-child {
+  padding: 0;
+  display: flex !important;
+  justify-content: center !important;
+  text-align: center !important;
+}
+
+.makeStyles-logout-63 {
+  background-color: white !important;
+}
+.MuiPaper-elevation8 ul li button {
+  padding: 0 !important;
+  margin: 0 !important;
+  width: 100% !important;
+  border: none !important;
+}
+.MuiPaper-elevation8 ul li:hover button {
+  background-color: rgba(0, 0, 0, 0.04) !important;
+}
